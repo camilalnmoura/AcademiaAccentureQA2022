@@ -21,6 +21,11 @@ Cadastro, Login e Compra testados de forma automatizada.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/><br>
 
+## ☁️: Arquivo para Download <br>
+
+[![DRIVE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://https://drive.google.com/drive/folders/16Bq-ZqdgBLF0oEKvQasHNvYY3e4gMRjI?usp=sharing/)](https://www.linkedin.com/in/tatidev/)
+
+
 
 
 ## :dart: Status do projeto
