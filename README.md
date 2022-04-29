@@ -2,9 +2,9 @@
 
 ## :memo: Descrição
 
-Projeto com intuito de praticar os conhecimentos adquiridos ao longo desse mês. <br>
+Projeto Final <br>
 
-Pontos estudados na academia: <br>
+Pontos abordados: <br>
 • Conceitos de Testes + Testes Ágeis + BDD <br>
 • Java e Programação Orientada a Objeto <br>
 • Selenium WebDriver + Cucumber <br>
