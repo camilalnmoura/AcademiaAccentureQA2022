@@ -12,7 +12,8 @@ Pontos abordados: <br>
 
 ## :books: Funcionalidades
 
-Cadastro, Login e Compra testados de forma automatizada. 
+Cadastro de cliente automatizado. <br>
+Login e Compra testada de forma automatizada. <br>
 
 ## :wrench: Tecnologias utilizadas
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/><br>
